@@ -4,7 +4,7 @@
 
 ###  :heart: star 支持一下
 
-[![GitHub stars](https://img.shields.io/github/stars/nisrulz/android-tips-tricks.svg?style=social&label=Star)](https://github.com/nisrulz/android-tips-tricks) [![GitHub forks](https://img.shields.io/github/forks/nisrulz/android-tips-tricks.svg?style=social&label=Fork)](https://github.com/nisrulz/android-tips-tricks/fork) [![GitHub watchers](https://img.shields.io/github/watchers/nisrulz/android-tips-tricks.svg?style=social&label=Watch)](https://github.com/nisrulz/android-tips-tricks) [![GitHub followers](https://img.shields.io/github/followers/nisrulz.svg?style=social&label=Follow)](https://github.com/nisrulz/android-tips-tricks)  
+[![GitHub stars](https://img.shields.io/github/stars/cctanfujun/android-tips-tricks-cn.svg?style=social&label=Star)](https://github.com/cctanfujun/android-tips-tricks-cn) [![GitHub forks](https://img.shields.io/github/forks/cctanfujun/android-tips-tricks-cn.svg?style=social&label=Fork)](https://github.com/cctanfujun/android-tips-tricks-cn/fork) [![GitHub watchers](https://img.shields.io/github/watchers/cctanfujun/android-tips-tricks-cn.svg?style=social&label=Watch)](https://github.com/cctanfujun/android-tips-tricks-cn) [![GitHub followers](https://img.shields.io/github/followers/cctanfujun.svg?style=social&label=Follow)](https://github.com/cctanfujun/android-tips-tricks-cn)  
   
 
 欢迎协作
