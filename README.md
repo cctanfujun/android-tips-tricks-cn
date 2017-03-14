@@ -83,7 +83,7 @@
   Android Studio/IntelliJ 可以帮你自动完成一些代码
   
   + `<expr>.null` 转换成 `if(<expr> == null)`
-  + `<expr>.nootnull` 转换成 `if(<expr> != null)`
+  + `<expr>.notnull` 转换成 `if(<expr> != null)`
   + `<expr>.var` 转换成 `T name = <expr>`
   + `<expr>.field` 会自动生成一个全局变量 `field = <expr>`
   + `<ArrayExpr>.for` 转换成 `for(T item : <Arrayexpr>)`
@@ -220,9 +220,9 @@
   
   `adb shell am kill`
 
-  + **参考 [降低 gradel 内存又加快构建](https://medium.com/@skaliakoudas/decreasing-build-times-by-decreasing-gradle-memory-requirements-7fcafc6d98ea#.otnm0ofb6)**
+  + **参考 [降低 gradle 内存又加快构建](https://medium.com/@skaliakoudas/decreasing-build-times-by-decreasing-gradle-memory-requirements-7fcafc6d98ea#.otnm0ofb6)**
   
-  译文见[降低 gradel 内存又加快构建](http://tanfujun.com/2017/03/13/%E9%99%8D%E4%BD%8E-gradle-%E5%86%85%E5%AD%98%E5%8F%88%E5%87%8F%E5%B0%91%E6%9E%84%E5%BB%BA%E6%97%B6%E9%97%B4-%E8%AF%91/)  
+  译文见[降低 gradle 内存又加快构建](http://tanfujun.com/2017/03/13/%E9%99%8D%E4%BD%8E-gradle-%E5%86%85%E5%AD%98%E5%8F%88%E5%87%8F%E5%B0%91%E6%9E%84%E5%BB%BA%E6%97%B6%E9%97%B4-%E8%AF%91/)  
   
   ```gradle
       Gradle memory >= Dex memory + 1Gb
