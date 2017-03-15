@@ -15,7 +15,7 @@
 
 + **使用快捷键**
   
-  **完整的快捷键指南 :  [MacOSX](https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard_mac.pdf) | [Linux/Win](https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf)**
+  **完整的快捷键指南 :  [MacOSX](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf) | [Linux/Win](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)**
 
 + **使用更有效率的插件**
   1. [KeyPromoter](https://plugins.jetbrains.com/plugin/4455)
