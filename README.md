@@ -9,9 +9,9 @@
 
 欢迎协作
 
-###***了解你的工具***
+### ***了解你的工具***
 
-####***Android Studio***
+#### ***Android Studio***
 
 + **使用快捷键**
   
@@ -116,22 +116,22 @@
   
   这个可以看下,文章提到的我是早就配置过了
 
-####***模拟器***
+#### ***模拟器***
 
   + [Genymotion](https://www.genymotion.com/) 曾经我最喜欢的模拟器，貌似收费了，现在x86的模拟器也挺快的了。
   + [Intel Emulator bundled in SDK Manger](https://developer.android.com/studio/run/emulator.html)
 
-####***[Vysor](http://www.vysor.io/)***
+#### ***[Vysor](http://www.vysor.io/)***
   
   简单说就是显示你连上的真机,也就在你做演示的时候有些用处，而且我一连上手机就自己跳出来，各位自己使用评价吧！
 
-####***[DeskDock](https://play.google.com/store/apps/details?id=com.floriandraschbacher.deskdock.free)***
+#### ***[DeskDock](https://play.google.com/store/apps/details?id=com.floriandraschbacher.deskdock.free)***
     
   不但能展示还可以控制你的Android设备.[免费版本](https://play.google.com/store/apps/details?id=com.floriandraschbacher.deskdock.free) 可以使用电脑鼠标, [收费版本](https://play.google.com/store/apps/details?id=com.floriandraschbacher.deskdock.pro) 可以使用电脑键盘. 你可以手不离开键盘进行测试.
 
   -
 
-###***编码时候的更优选择***
+### ***编码时候的更优选择***
 
   + **使用 OkHttp 替代 HttpUrlConnect**
 
@@ -487,7 +487,7 @@
   + **你收到过Google Play 违反政策的邮件吗? 别担心给你的app生成隐私策略** [[Ref ink]](https://medium.com/@ali.muzaffar/did-you-get-one-of-these-google-play-developer-policy-violation-emails-6c529ceb082d#.f10upj3fy)
 
 
-###*** UI/UX 相关***
+### *** UI/UX 相关***
 
 + **移动**
   + Material Design 使用的是现实风格的设计.现实世界中物体根据运动的性质在曲线上进行加速或者减速，而不是做直线运动.
@@ -535,7 +535,7 @@
   + accent color 和 primary color 颜色要互补，形成比较好的对比度。
 
 
-###***Tips 关于 [Kotlin](https://kotlinlang.org/)***
+### ***Tips 关于 [Kotlin](https://kotlinlang.org/)***
 
 + **关注 [From Java to Kotlin](https://fabiomsr.github.io/from-java-to-kotlin/)**
 
@@ -543,7 +543,7 @@
 
     -
 
-###***其他资源***
+### ***其他资源***
 
 + **关注 podcasts**
       
